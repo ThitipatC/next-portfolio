@@ -13,7 +13,7 @@ export default function DA() {
         {/* Professional Experience Section */}
         <div className="space-y-6">
           <WorkExpBox companyInfo = "Potico, Thailand" title="Business Development and Operation Inern" duration='Nov 2024 - Present' contributions={[
-                  "Reformulate and Automate process of calculating of operation expense saving more than 3 hours by analysing the pattern of the timesheet report using google sheet and pands",
+                  "Reformulate and Automate process of calculating of operation expense saving more than 3 hours by analysing the pattern of the timesheet report using google sheet and pandas",
                   "Use python to streamline COGS bookkeeping on google sheet saving more than 30 minutes of brute force needed with the conventional way"
                 ]}/>
           <WorkExpBox companyInfo = "UniBridge" title="Cofounder" duration='June 2024 - Present' contributions={
